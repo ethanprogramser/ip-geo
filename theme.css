@@ -1,0 +1,15 @@
+box, entry {
+  background-color: lightblue;
+}
+
+label, entry {
+  color: blue;
+}
+
+#isend:hover {
+  background-color: black;
+}
+
+#isend {
+  background-color: orange;
+}
